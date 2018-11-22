@@ -4,7 +4,8 @@ WTC is an application made for the game Path of Exile. Its goal is to make the t
 At its core, this program has **three fundamental values**: simplicity, transparency, respect of the game's *Terms of Use*.
 
 ## What does it do?
-It makes your life easier by regrouping all trade information and by sending generally used commands/message with a button click.
+It makes your life easier by regrouping all trade information and by sending generally used commands/messages with a button click.
+
 (Soon a video link here)
 
 ## How to use it?
