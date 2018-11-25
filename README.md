@@ -6,7 +6,7 @@ At its core, this program has **three fundamental values**: simplicity, transpar
 ## What does it do?
 It makes your life easier. When you receive a trade message, the application pops up and shows you trade related infos. Then, you can perform various actions (invite, send a "Sold" message, etc) with a single button click.
 
-(Soon a video link here)
+Everything you need to know in this [Youtube video](https://www.youtube.com/watch?v=X3TsqENq61I).
 
 ## How to use it?
 1. Install Java 8 or later version [here](https://www.java.com/download/)
