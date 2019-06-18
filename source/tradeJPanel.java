@@ -78,19 +78,19 @@ public class tradeJPanel extends javax.swing.JPanel {
         setMinimumSize(new java.awt.Dimension(300, 130));
         setPreferredSize(new java.awt.Dimension(300, 130));
 
-        jLabel1.setFont(new java.awt.Font("Tahoma", 1, 11)); // NOI18N
+        jLabel1.setFont(new java.awt.Font("Malgun Gothic", 1, 11)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(204, 204, 204));
         jLabel1.setText("Buyer:");
 
-        jLabel2.setFont(new java.awt.Font("Tahoma", 1, 11)); // NOI18N
+        jLabel2.setFont(new java.awt.Font("Malgun Gothic", 1, 11)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(204, 204, 204));
         jLabel2.setText("Item:");
 
-        jLabel3.setFont(new java.awt.Font("Tahoma", 1, 11)); // NOI18N
+        jLabel3.setFont(new java.awt.Font("Malgun Gothic", 1, 11)); // NOI18N
         jLabel3.setForeground(new java.awt.Color(204, 204, 204));
         jLabel3.setText("Price:");
 
-        jLabelBuyerName.setFont(new java.awt.Font("Tahoma", 1, 11)); // NOI18N
+        jLabelBuyerName.setFont(new java.awt.Font("Malgun Gothic", 1, 11)); // NOI18N
         jLabelBuyerName.setForeground(new java.awt.Color(153, 204, 255));
         jLabelBuyerName.setText(buyerName);
         jLabelBuyerName.setToolTipText("Click to send a message");
@@ -105,7 +105,7 @@ public class tradeJPanel extends javax.swing.JPanel {
         });
 
         jLabelItemName.setCursor(Cursor.getPredefinedCursor(Cursor.HAND_CURSOR));
-        jLabelItemName.setFont(new java.awt.Font("Tahoma", 1, 11)); // NOI18N
+        jLabelItemName.setFont(new java.awt.Font("Malgun Gothic", 1, 11)); // NOI18N
         jLabelItemName.setForeground(new java.awt.Color(153, 204, 255));
         jLabelItemName.setText(itemName);
         jLabelItemName.setToolTipText("Click to copy");
@@ -118,18 +118,18 @@ public class tradeJPanel extends javax.swing.JPanel {
             }
         });
 
-        jLabelItemPrice.setFont(new java.awt.Font("Tahoma", 1, 11)); // NOI18N
+        jLabelItemPrice.setFont(new java.awt.Font("Malgun Gothic", 1, 11)); // NOI18N
         jLabelItemPrice.setForeground(new java.awt.Color(255, 255, 255));
         jLabelItemPrice.setText(itemPrice);
         jLabelItemPrice.setMaximumSize(new java.awt.Dimension(226, 14));
         jLabelItemPrice.setMinimumSize(new java.awt.Dimension(226, 14));
         jLabelItemPrice.setPreferredSize(new java.awt.Dimension(226, 14));
 
-        jLabel4.setFont(new java.awt.Font("Tahoma", 1, 11)); // NOI18N
+        jLabel4.setFont(new java.awt.Font("Malgun Gothic", 1, 11)); // NOI18N
         jLabel4.setForeground(new java.awt.Color(204, 204, 204));
         jLabel4.setText("Tab:");
 
-        jLabelItemPos.setFont(new java.awt.Font("Tahoma", 1, 11)); // NOI18N
+        jLabelItemPos.setFont(new java.awt.Font("Malgun Gothic", 1, 11)); // NOI18N
         jLabelItemPos.setForeground(new java.awt.Color(255, 255, 255));
         jLabelItemPos.setText(itemPos);
         jLabelItemPos.setMaximumSize(new java.awt.Dimension(226, 14));
